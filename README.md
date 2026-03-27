@@ -43,7 +43,7 @@ All required dependencies are listed in the `requirements.txt` file.
  Install using:
 ```bash
 pip install -r requirements.txt
-
+```
 
 🔹 5. Reproducibility Section
 This repository contains the official implementation of the manuscript submitted to The Visual Computer. The code is provided to ensure reproducibility of the experimental results. All necessary components, including model architecture, inference pipeline, and feature extraction methods, are included to facilitate independent verification and evaluation.
