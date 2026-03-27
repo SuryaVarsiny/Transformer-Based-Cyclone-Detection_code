@@ -58,3 +58,6 @@ Journal: The Visual Computer
 Year: 2026  
 
 This code is directly associated with the manuscript currently under review at The Visual Computer. Users are encouraged to cite the corresponding paper when using this repository for research or development purposes.
+🔹 7. DOI:10.5281/zenodo.19249182
+https://doi.org/10.5281/zenodo.19249181
+[![DOI](https://zenodo.org/badge/1193375915.svg)](https://doi.org/10.5281/zenodo.19249181)
