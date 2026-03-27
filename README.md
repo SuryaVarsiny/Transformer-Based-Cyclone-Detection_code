@@ -43,3 +43,18 @@ All required dependencies are listed in the `requirements.txt` file.
  Install using:
 ```bash
 pip install -r requirements.txt
+
+
+🔹 5. Reproducibility Section
+This repository contains the official implementation of the manuscript submitted to The Visual Computer. The code is provided to ensure reproducibility of the experimental results. All necessary components, including model architecture, inference pipeline, and feature extraction methods, are included to facilitate independent verification and evaluation.
+
+🔹 6. Citation
+If you use this work, please cite:
+
+
+Paper Title: "Transformer-Based Cyclone Detection: Leveraging Spatiotemporal Features from Satellite Imagery" 
+Author Names: P. Karthikeyan, B. Sakthivel, S. S. Surya Varsiny, S. M. Tejesvini.
+Journal: The Visual Computer
+Year: 2026  
+
+This code is directly associated with the manuscript currently under review at The Visual Computer. Users are encouraged to cite the corresponding paper when using this repository for research or development purposes.
